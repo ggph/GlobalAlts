@@ -1,0 +1,17 @@
+.jumbo1 {
+	background-image: url("main.jpeg");
+	background-size: cover;
+	height: 1450px;
+}
+
+.big {
+	font-size: 60px;
+}
+
+.y {
+	margin-top: 150px;
+}
+
+.btn1 {
+	width: 100%;
+}
